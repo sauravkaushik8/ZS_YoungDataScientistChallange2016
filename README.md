@@ -1,4 +1,4 @@
-This is a pan India Data Science Competetion by ZS Associates hosted on Hacker Rank. 
+This is a pan India Data Science Competition by ZS Associates hosted on Hacker Rank. 
 
 I got a rank in top 40 based on a GBM model.(https://cloud.githubusercontent.com/assets/10769039/17398289/a8e123b6-5a59-11e6-895e-9e91b5242aa8.png)
 
