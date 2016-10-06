@@ -41,7 +41,7 @@ s<-solution
 
 summary(s$Buy_or_not)
 
-
+#All possible combinations of Hospital_ID, District_ID and Instrubent_ID.
 x<-expand.grid(Hospital_ID=levels(hospital_revenue$Hospital_ID),District_ID=levels(hospital_revenue$District_ID),Instrument_ID=levels(hospital_revenue$Instrument_ID))
 
 
@@ -60,7 +60,7 @@ summary(pred)
 
 
 
-.90 Quaterile (High confidence level based on ratio of 1 and 0 in Training data[12 Lakh+ entries] )
+#.90 Quaterile (High confidence level based on ratio of 1 and 0 in Training data[12 Lakh+ entries] )
 s$Buy_or_not<-ifelse(pred>1.090302,1,0)
 s$Revenue<-0
 
