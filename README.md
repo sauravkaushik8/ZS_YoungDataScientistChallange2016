@@ -1,8 +1,10 @@
 This is a pan India Data Science Competition by ZS Associates hosted on Hacker Rank. 
 
-I got a rank in top 40 based on a GBM model.(https://cloud.githubusercontent.com/assets/10769039/17398289/a8e123b6-5a59-11e6-895e-9e91b5242aa8.png)
+I got a rank in top 40 based on a GBM model.
+( https://drive.google.com/file/d/0ByPBn4rtMQ5HZl9IN1N3MHhHZEU/view?usp= sharing)
+( https://cloud.githubusercontent.com/assets/10769039/17398289/a8e123b6-5a59-11e6-895e-9e91b5242aa8.png)
 
-The problem statement and other details can be seen at : https://www.hackerrank.com/zscontest
+The problem statement was to predict which hospitals will be purchasing the instruments given the historical records and also the revenue each of those hospitals. 
 
 The CODE file contains the final trimmed code in R. The steps followed are:
 
